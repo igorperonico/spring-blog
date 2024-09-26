@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/blog
     username: postgres
-    password: password
+    password: postgres
 
   sql:
     init:
